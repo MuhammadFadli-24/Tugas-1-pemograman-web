@@ -1,0 +1,31 @@
+/* Mengubah Font pada IdentitasDiri */
+.IdentitasDiri {
+   font-family: "Times New Roman", serif;
+}
+/* Sebagai Menggatur ukuran Gambar */
+style {
+  width: 100%;
+}
+/* Mengatur Font pada Penjelasan */
+.Penjelasan {
+   font-family: "Times New Roman", serif;
+}
+/* Mengatur Posisi Gambar */
+img {
+  margin-right: 20px;
+}
+/* Sebagai mengatur paragraf1 */
+.Paragraf1 {
+  font-family: "Times New Roman", serif;
+  margin-top: 1px;
+}
+/* Sebagai mengatur paragraf2 */
+.Paragraf2 {
+  font-family: "Times New Roman", serif;
+  margin-top: 1px;
+}
+/* Mengatur garis di bagian Identitas diri tersebut */
+.Lines {
+  height: 3px;
+  background-color: black;
+}
